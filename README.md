@@ -1,6 +1,8 @@
 # Project 1 HTML and CSS
 
-[Project Link](./index.html)
+![Badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
+## [Link of live project](https://trending2025hero.netlify.app/)
 
 ![LCO](./view.png)
 
